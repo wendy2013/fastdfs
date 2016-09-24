@@ -1,0 +1,1 @@
+<?php echo join(",", get_loaded_extensions()); ?>
